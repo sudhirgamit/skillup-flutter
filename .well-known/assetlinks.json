@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.technology.creativedesign",
+      "sha256_cert_fingerprints": [
+        "93:9D:53:17:59:F4:99:58:F1:A6:75:CA:ED:6B:FC:24:9D:C8:52:61:E6:93:44:B6:8C:8E:A9:4D:B4:1E:22:E6"
+      ]
+    }
+  }
+]
